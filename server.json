@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
+  "name": "io.capitalsignal/asx",
+  "title": "Capital Signal (ASX Filings & Market Data)",
+  "description": "Every ASX announcement since 2018 extracted into structured, filing-linked data: capital raises, substantial holders, director trades, M&A, 4C/5B cash runway, guidance, drill intercepts, and full-text filing search.",
+  "websiteUrl": "https://capitalsignal.io",
+  "repository": {
+    "url": "https://github.com/damonphilipross/capital-signal-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://capitalsignal.io/api/mcp"
+    }
+  ]
+}
