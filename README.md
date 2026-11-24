@@ -1,5 +1,7 @@
 # Capital Signal MCP Server
 
+[![Capital Signal MCP connector](https://glama.ai/mcp/connectors/io.capitalsignal/capital-signal/badges/score.svg)](https://glama.ai/mcp/connectors/io.capitalsignal/capital-signal)
+
 Remote [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server for **[Capital Signal](https://capitalsignal.io)** — every ASX announcement since 2018 extracted into structured, filing-linked data.
 
 - **Website (daily ASX front page):** https://capitalsignal.io
